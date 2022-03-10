@@ -47,7 +47,7 @@ class whileLoop {
 
         // Java program to illustrate the Switch case
 //        public class Test
-        System.out.println("\t *** Output of the while-loop code ***");
+        System.out.println("\t *** Output of the Switch case code ***");
         char grade = 'B';
 
         switch(grade) {
